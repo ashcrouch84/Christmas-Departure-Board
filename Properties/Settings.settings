@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Departure_Board.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="savedInterval" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="savedLoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\win\Desktop\Xmas</Value>
+    </Setting>
+    <Setting Name="savedUnique" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="savedDisplay" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="savedSound" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\win\Desktop\Xmas\Ding Dong.wav</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
